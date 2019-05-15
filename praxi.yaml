@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-cyber-security
+
+about:
+  title: Learning Cyber Security
+  description: Best security practices
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
